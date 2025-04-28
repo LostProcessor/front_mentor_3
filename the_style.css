@@ -1,0 +1,48 @@
+img{
+    border-radius: 50%;
+    width: 60px;
+}
+.about-me{
+    margin: 10px 20px;
+    font-size:12px;
+}
+.super-black {
+    background-color: #000000;
+    width:100vw;
+    height:100vh;
+    display:grid;
+    place-items:center;
+}
+
+.grey-black {
+    border-radius:5px;
+    background-color: #2e2d2b;
+    width: 250px;
+    height: 420px;
+    color:white;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.element {
+    width:210px;
+    height:30px;
+    background-color: #4f4e4a;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-radius: 5px;
+    margin-bottom:5px;
+
+}
+h1{
+    font-size:20px;
+}
+
+.location {
+    font-size: 10px;
+    margin-top: -12px;
+    color: #28d13e;
+}
